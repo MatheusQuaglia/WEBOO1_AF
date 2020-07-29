@@ -1,0 +1,6 @@
+git clone  https://github.com/MatheusQuaglia/WEBOO1_AF.git
+cd WEB001_AF
+git add *
+git status
+git commit -m "minha prova final"
+git push origin master
